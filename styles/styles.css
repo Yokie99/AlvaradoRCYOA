@@ -33,6 +33,9 @@ body{
     background-color: rgb(86, 86, 86);
 }
 
+a{
+    display: block;
+}
 
 a:link{
     text-decoration: none;
