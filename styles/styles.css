@@ -3,7 +3,8 @@
 
 .bottomTxt{
     text-align:center;
-    padding-top: 500px;
+    /* padding-top: 200px; */
+    color: white;
 }
 
 
@@ -12,6 +13,15 @@
     justify-content: space-evenly;
 }
 
+.size{
+    width: 70%;
+    border: 5px solid;
+    margin-left: 210px ;
+}
+
+body{
+    background-color: rgb(86, 86, 86);
+}
 
 
 
